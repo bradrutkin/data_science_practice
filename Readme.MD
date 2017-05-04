@@ -1,4 +1,5 @@
-##Learning Data Science 
+
+#Learning Data Science 
 ### This is my quest through Joel Grus's book 'Data Science From Scratch'
 
 The code on here serves three purposes 
